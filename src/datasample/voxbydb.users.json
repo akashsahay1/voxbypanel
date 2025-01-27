@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "677ad78da5b84ea6aaaebe80"
+  },
+  "email": "akash.sahay1@gmail.com",
+  "password": "$2a$10$8v9fD0dyrKSGpK9geoYjxeewD/XjOP57F/Wps5mpGfVygBS3SJ6ie",
+  "name": "Akash Sahay",
+  "createdAt": {
+    "$date": "2025-01-05T19:03:41.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677adf22a5b84ea6aaaebe85"
+  },
+  "email": "akash.sahay@gmail.com",
+  "password": "$2a$10$7ous5.hJhBPLX16f9tY9WuuKWpE/6/uibkp0tsg1AW0VtqWCnhyV.",
+  "name": "Akash Sahay",
+  "createdAt": {
+    "$date": "2025-01-05T19:36:02.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677ae554a5b84ea6aaaebe88"
+  },
+  "email": "akash@gmail.com",
+  "password": "$2a$10$/XFb3/HBoK5IsmMklFkIneFaXS3yvrvdiNIsYrnyqcM7v33.U8R/y",
+  "name": "Akash",
+  "createdAt": {
+    "$date": "2025-01-05T20:02:28.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677e5dfeba07485be359c610"
+  },
+  "email": "a@g.com",
+  "password": "$2a$10$PyDlTtPNHanOsED6GaCQeO3ypZUNGNFaYnbC40qT8E.yEGemdA4He",
+  "name": "Akash",
+  "createdAt": {
+    "$date": "2025-01-08T11:14:06.978Z"
+  },
+  "__v": 0
+}]
